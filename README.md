@@ -1,13 +1,13 @@
 
 # **Análisis de Sentimientos en Reseñas de Pueblos Mágicos - Reto MeIA 2025**
 
-Este repositorio contiene la solución para el reto de **Análisis de Sentimientos en Pueblos Mágicos Mexicanos** del Macroentrenamiento en Inteligencia Artificial (MeIA) 2025. El objetivo es clasificar la polaridad de reseñas turísticas en una escala del 1 (muy negativo) al 5 (muy positivo) utilizando un modelo de lenguaje basado en Transformers[cite: 1].
+Este repositorio contiene la solución para el reto de **Análisis de Sentimientos en Pueblos Mágicos Mexicanos** del Macroentrenamiento en Inteligencia Artificial (MeIA) 2025. El objetivo es clasificar la polaridad de reseñas turísticas en una escala del 1 (muy negativo) al 5 (muy positivo) utilizando un modelo de lenguaje basado en Transformers.
 
 -----
 
 ## **Descripción General** 📜
 
-El proyecto implementa un flujo de trabajo de Procesamiento de Lenguaje Natural (PLN) para realizar análisis de sentimientos. Se utiliza un modelo **BERT pre-entrenado para español**, que es ajustado (fine-tuned) con un conjunto de datos específico de reseñas de Pueblos Mágicos. Finalmente, el modelo entrenado se usa para predecir la polaridad de nuevas reseñas no etiquetadas[cite: 1].
+El proyecto implementa un flujo de trabajo de Procesamiento de Lenguaje Natural (PLN) para realizar análisis de sentimientos. Se utiliza un modelo **BERT pre-entrenado para español**, que es ajustado (fine-tuned) con un conjunto de datos específico de reseñas de Pueblos Mágicos. Finalmente, el modelo entrenado se usa para predecir la polaridad de nuevas reseñas no etiquetadas.
 
 ### **Tecnologías y Modelos** 🤖
 
